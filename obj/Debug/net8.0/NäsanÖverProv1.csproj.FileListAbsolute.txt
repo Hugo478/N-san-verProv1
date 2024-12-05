@@ -1,0 +1,14 @@
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\bin\Debug\net8.0\NäsanÖverProv1.exe
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\bin\Debug\net8.0\NäsanÖverProv1.deps.json
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\bin\Debug\net8.0\NäsanÖverProv1.runtimeconfig.json
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\bin\Debug\net8.0\NäsanÖverProv1.dll
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\bin\Debug\net8.0\NäsanÖverProv1.pdb
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\obj\Debug\net8.0\NäsanÖverProv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\obj\Debug\net8.0\NäsanÖverProv1.AssemblyInfoInputs.cache
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\obj\Debug\net8.0\NäsanÖverProv1.AssemblyInfo.cs
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\obj\Debug\net8.0\NäsanÖverProv1.csproj.CoreCompileInputs.cache
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\obj\Debug\net8.0\NäsanÖverProv1.dll
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\obj\Debug\net8.0\refint\NäsanÖverProv1.dll
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\obj\Debug\net8.0\NäsanÖverProv1.pdb
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\obj\Debug\net8.0\NäsanÖverProv1.genruntimeconfig.cache
+C:\Users\hugo.sundstrom\Documents\Spel 1 Programmering 2 Hugo Sundström\NäsanÖverProv1\obj\Debug\net8.0\ref\NäsanÖverProv1.dll
